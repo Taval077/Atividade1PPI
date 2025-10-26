@@ -1,0 +1,29 @@
+{
+  "name": "atividade1ppi",
+  "version": "1.0.0",
+  "description": "Primeira atividade com Node e Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taval077/Atividade1PPI.git"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "node"
+  ],
+  "author": "Otávio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taval077/Atividade1PPI/issues"
+  },
+  "homepage": "https://github.com/Taval077/Atividade1PPI#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
